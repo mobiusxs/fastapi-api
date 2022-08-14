@@ -1,0 +1,11 @@
+alembic
+fastapi
+sqlalchemy
+sqlalchemy-mixins
+
+uvicorn
+psycopg2-binary
+
+invoke
+flake8
+pytest
