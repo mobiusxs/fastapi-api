@@ -1,0 +1,11 @@
+.github
+.idea/
+.pytest_cache/
+__pycache__/
+data/
+venv/
+.gitignore
+db.sqlite3
+docker-compose.yml
+LICENSE
+README.md
